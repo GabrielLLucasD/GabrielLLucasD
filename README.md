@@ -7,11 +7,11 @@
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLLucasD&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-<img align="center" alt="Gabriel" height="30" width="40" src="<endereço da
+<img align="center" alt="Biel" height="30" width="40" src="<endereço da
 imagem>">
 </div>
 <div align="center" style="display: inline_block"><br>
-<a href="<endereço do insta>" target="_blank"><img
+<a href="@gabriellucas950" target="_blank"><img
 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagr
 am&logoColor=white" target="_blank"></a>
 </div>
